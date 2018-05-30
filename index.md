@@ -1,4 +1,5 @@
-title: Welcome to the Octocat’s homepage!
+title: Welcome to the Project 1 homepage
+description: Feel free to comment and contribute
 
 ## Welcome to GitHub Pages
 
