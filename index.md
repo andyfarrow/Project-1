@@ -1,6 +1,6 @@
-title: Welcome to the Project 1 homepage
+Welcome to the Project 1 homepage
 
-description: Feel free to comment and contribute
+Feel free to comment and contribute
 
 ## Welcome to GitHub Pages
 
