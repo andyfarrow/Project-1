@@ -1,8 +1,8 @@
-Welcome to the Project 1 homepage
+# Welcome to the Project 1 homepage 
 
 Feel free to comment and contribute
 
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/andyfarrow/Project-1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
